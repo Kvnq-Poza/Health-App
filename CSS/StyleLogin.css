@@ -1,0 +1,63 @@
+body{
+    background-image: url(../SVG/login-animate.svg);
+    background-repeat: no-repeat;
+    background-size: 700px 900px;
+    background-position: center right;
+    background-color: whitesmoke;
+    min-height: 600px;
+}
+
+.custom-shape-divider-bottom-1678965879 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1678965879 svg {
+    position: relative;
+    display: block;
+    width: calc(113% + 1.3px);
+    height: 239px;
+}
+
+.custom-shape-divider-bottom-1678965879 .shape-fill {
+    fill: #14E49BD4;
+}
+
+#main-header{
+    text-align: center;
+    color: white;
+    padding: 0px;
+    background: #14E49BD4;
+    border-radius: 15px;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.container h1{
+    font-family: comic sans, sans-serif, helvetica;
+    color: #14E49BD4;
+}
+
+.container label{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.container input{
+    background-color: #14E49BD4;
+    color: white;
+    border-style: dotted;
+    border-color: #14E49BD4;
+    border-radius: 10px;
+    font-family: helvetica;
+}
